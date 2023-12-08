@@ -1,11 +1,22 @@
-# Carlos Bruno
+# ♌ Carlos Bruno
 
-### Hello, Devs!! 👋
+### 👋 Hello, Devs!! 👨‍💻
 
 * I'm a computer engineer.
 * I have a master's degree in computer science in the area of digital image processing and computer vision.
 * I worked as an IT, engineering and mathematics professor for 7 years.
-* For 2 years I was a system analyst working with Photography computation, Image Processing and Vision Computation to Camera App in IQ improvement.
+* For 2 years I was a system analyst working with Photography computation, Image Processing and Vision Computation to Camera App in IQ improvement at Eldorado Institute.
+
+## 💻 Languages, tools and knowledge 
+![Static Badge](https://img.shields.io/badge/C-708090?logo=c)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-4682B4?logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/PYTHON-FFDEAD?logo=python)
+![Static Badge](https://img.shields.io/badge/OpenCV-5F9EA0?logo=opencv)
+
+
+
+
+
 
 
 
