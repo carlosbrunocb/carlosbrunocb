@@ -48,9 +48,18 @@
 ![Static Badge](https://img.shields.io/badge/Windows-1E90FF?logo=windows)
 ![Static Badge](https://img.shields.io/badge/SketchUp-4682B4?logo=sketchup)
 
+## 📫 Reach me
 
+## GitHub Stats
+<div>
+  
+<a href="https://github.com/carlosbrunocb">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosbrunocb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbrunocb&layout=compact&langs_count=7&theme=dracula"/>
 
+</div>
 
+![Snake animation](https://github.com/carlosbrunocb/carlosbrunocb/blob/output/github-contribution-grid-snake.svg)
 
 
 
