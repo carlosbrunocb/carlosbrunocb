@@ -1,18 +1,29 @@
 # ♌ Carlos Bruno
 
-### 👋 Hello, Devs!! 👨‍💻
+### Hello, Devs!! 👋 👨‍💻
+***Academic Formation:***
+
 ![Static Badge](https://img.shields.io/badge/UFAM-Computer_Engineer-20B2AA)
 
 ![Static Badge](https://img.shields.io/badge/UFGRS-Master's_Degree_In_Computer_Science-4169E1)
-![Static Badge](https://img.shields.io/badge/Digital_Image_Processing-8B4513)
-![Static Badge](https://img.shields.io/badge/Computer_Vision-D2691E)
+![Static Badge](https://img.shields.io/badge/DIGITAL_IMAGE_PROCESSING-8B4513)
+![Static Badge](https://img.shields.io/badge/COMPUTER_VISION-D2691E)
 
+***Experience:***
 
+![Static Badge](https://img.shields.io/badge/Impact_Lab-1-3CB371)
+![Static Badge](https://img.shields.io/badge/R%26D-00CED1)
+![Static Badge](https://img.shields.io/badge/Computational_Photography-HDR_%26_Night_Vision-DCDCDC)
+![Static Badge](https://img.shields.io/badge/Courses_%26_Training-191970)
 
+![Static Badge](https://img.shields.io/badge/Professor-7-3CB371)
+![Static Badge](https://img.shields.io/badge/Information_Technology_--_IT-1E90FF)
+![Static Badge](https://img.shields.io/badge/Engineering-4682B4)
+![Static Badge](https://img.shields.io/badge/Mathematics-B0C4DE)
 
-* I have a master's degree in computer science in the area of digital image processing and computer vision.
-* I worked as an IT, engineering and mathematics professor for 7 years.
-* For 2 years I was a system analyst working with Photography computation, Image Processing and Vision Computation to Camera App in IQ improvement at Eldorado Institute.
+![Static Badge](https://img.shields.io/badge/System_Analyst-2-3CB371)
+![Static Badge](https://img.shields.io/badge/Computational_Photography-HDR%2C_Night_Vision_%26_Bokeh_(Portrait)-DCDCDC)
+![Static Badge](https://img.shields.io/badge/Camera_App-IQ-B0E0E6)
 
 ## 💻 Languages, tools and knowledge 
 ![Static Badge](https://img.shields.io/badge/C-708090?logo=c)
