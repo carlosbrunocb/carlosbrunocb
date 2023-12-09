@@ -2,7 +2,15 @@
 
 ### 👋 Hello, Devs!! 👨‍💻
 
-* I'm a computer engineer.
+![Static Badge](https://img.shields.io/badge/UFAM-Computer_Engineer-20B2AA)
+
+![Static Badge](https://img.shields.io/badge/UFGRS-Master's_Degree_In_Computer_Science-4169E1)
+![Static Badge](https://img.shields.io/badge/Digital_Image_Processing-8B4513)
+![Static Badge](https://img.shields.io/badge/Computer_Vision-D2691E)
+
+
+
+
 * I have a master's degree in computer science in the area of digital image processing and computer vision.
 * I worked as an IT, engineering and mathematics professor for 7 years.
 * For 2 years I was a system analyst working with Photography computation, Image Processing and Vision Computation to Camera App in IQ improvement at Eldorado Institute.
