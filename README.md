@@ -1,7 +1,6 @@
 # ♌ Carlos Bruno
 
 ### 👋 Hello, Devs!! 👨‍💻
-
 ![Static Badge](https://img.shields.io/badge/UFAM-Computer_Engineer-20B2AA)
 
 ![Static Badge](https://img.shields.io/badge/UFGRS-Master's_Degree_In_Computer_Science-4169E1)
