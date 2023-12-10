@@ -57,6 +57,17 @@
 ![Static Badge](https://img.shields.io/badge/SketchUp-4682B4?logo=sketchup)
 
 ## 📫 Reach me
+<div>
+<a href="https://instagram.com/carlosbrunocb" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href = "mailto:carlosbrunocb@gmail.com">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/carlosbruno-lopes" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>   
+</div>
 
 ## GitHub Stats
 <div>
@@ -67,7 +78,6 @@
 
 </div>
 
-![Snake animation](https://github.com/carlosbrunocb/carlosbrunocb/blob/output/github-contribution-grid-snake.svg)
 
 
 
