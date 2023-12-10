@@ -39,7 +39,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Android-E0FFFF?logo=android)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-191970?logo=androidstudio)
-
 ![Static Badge](https://img.shields.io/badge/DART-87CEFA?logo=dart)
 ![Static Badge](https://img.shields.io/badge/FLUTTER-00BFFF?logo=flutter)
 
@@ -49,12 +48,12 @@
 ![Static Badge](https://img.shields.io/badge/git-DEB887?logo=git)
 ![Static Badge](https://img.shields.io/badge/GitHub-4F4F4F?logo=github)
 
+![Static Badge](https://img.shields.io/badge/Windows-1E90FF?logo=windows)
 ![Static Badge](https://img.shields.io/badge/Linux-1C1C1C?logo=linux)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-F4A460?logo=ubuntu)
 
 ![Static Badge](https://img.shields.io/badge/SQLite-6495ED?logo=sqlite)
 
-![Static Badge](https://img.shields.io/badge/Windows-1E90FF?logo=windows)
 ![Static Badge](https://img.shields.io/badge/SketchUp-4682B4?logo=sketchup)
 
 ## 📫 Reach me
