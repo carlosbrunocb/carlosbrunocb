@@ -4,25 +4,25 @@
 
 ***Academic Formation:***
 
-![Static Badge](https://img.shields.io/badge/UFAM-Computer_Engineer-20B2AA)
+![Static Badge](https://img.shields.io/badge/UFAM-Computer_Engineer-20B2AA?style=social)
 
-![Static Badge](https://img.shields.io/badge/UFGRS-Master's_Degree_In_Computer_Science-4169E1)
+![Static Badge](https://img.shields.io/badge/UFGRS-Master's_Degree_In_Computer_Science-4169E1?style=social)
 ![Static Badge](https://img.shields.io/badge/DIGITAL_IMAGE_PROCESSING-8B4513)
 ![Static Badge](https://img.shields.io/badge/COMPUTER_VISION-D2691E)
 
 ***Experience:***
 
-![Static Badge](https://img.shields.io/badge/Impact_Lab-1-3CB371)
+![Static Badge](https://img.shields.io/badge/Impact_Lab-1-3CB371?style=social)
 ![Static Badge](https://img.shields.io/badge/R%26D-00CED1)
 ![Static Badge](https://img.shields.io/badge/Computational_Photography-HDR_%26_Night_Vision-DCDCDC)
 ![Static Badge](https://img.shields.io/badge/Courses_%26_Training-191970)
 
-![Static Badge](https://img.shields.io/badge/Professor-7-3CB371)
+![Static Badge](https://img.shields.io/badge/Professor-7-3CB371?style=social)
 ![Static Badge](https://img.shields.io/badge/Information_Technology_--_IT-1E90FF)
 ![Static Badge](https://img.shields.io/badge/Engineering-4682B4)
 ![Static Badge](https://img.shields.io/badge/Mathematics-B0C4DE)
 
-![Static Badge](https://img.shields.io/badge/System_Analyst-2-3CB371)
+![Static Badge](https://img.shields.io/badge/System_Analyst-2-3CB371?style=social)
 ![Static Badge](https://img.shields.io/badge/Computational_Photography-HDR%2C_Night_Vision_%26_Bokeh_(Portrait)-DCDCDC)
 ![Static Badge](https://img.shields.io/badge/Camera_App-IQ-B0E0E6)
 
@@ -58,14 +58,14 @@
 
 ## 📫 Reach me
 <div>
-<a href="https://instagram.com/carlosbrunocb" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
 <a href = "mailto:carlosbrunocb@gmail.com">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+<a href="https://instagram.com/carlosbrunocb" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Instagram-BA55D3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
 <a href="https://www.linkedin.com/in/carlosbruno-lopes" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>   
 </div>
 
