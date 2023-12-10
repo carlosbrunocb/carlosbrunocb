@@ -70,7 +70,7 @@
 </a>   
 </div>
 
-## GitHub Stats
+## ⚡ GitHub Stats
 <div>
   
 <a href="https://github.com/carlosbrunocb">
